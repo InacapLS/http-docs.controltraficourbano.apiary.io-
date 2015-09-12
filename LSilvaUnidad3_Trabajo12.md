@@ -250,7 +250,7 @@ Sistema de control de trafico urbano.
                     "Ciudad": "Santiago",
                     "Region": "Metropolitana"
                   }
-              }
+              },
               {
                 "ID":2,
                 "IdCamara":1205,
@@ -267,7 +267,7 @@ Sistema de control de trafico urbano.
                     "Ciudad": "Santiago",
                     "Region": "Metropolitana"
                   }
-              }
+              },
              {
                 "ID":3,
                 "IdCamara":1205,
